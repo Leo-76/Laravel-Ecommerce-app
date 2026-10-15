@@ -1,6 +1,6 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
-    "name": "monpackage/laravel-ecommerce-app",
+    "name": "leo-76/laravel-ecommerce-app",
     "type": "project",
     "description": "Application Laravel 13 avec e-commerce intégré — prête à l'emploi.",
     "keywords": ["laravel", "ecommerce", "crud"],
